@@ -1,0 +1,2 @@
+connection_string: "postgres://user:password@host:port/database_name?sslmode=disable"
+port: ":wanted_port"
